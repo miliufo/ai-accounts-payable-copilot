@@ -1,0 +1,12 @@
+
+{
+  "po_number": "PO-1001",
+  "supplier_name": "Berlin Tech GmbH",
+  "order_date": "2026-10-10",
+  "currency": "EUR",
+  "subtotal": "1000.00",
+  "tax_amount": "190.00",
+  "total_amount": "1190.00",
+  "description": "Enterprise IT Infrastructure Services",
+  "status": "approved"
+}

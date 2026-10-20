@@ -1,0 +1,33 @@
+
+# AI and Multi-Agent
+openai
+langgraph
+langchain-core
+python-dotenv
+
+# Data validation
+pydantic
+
+# Invoice and document processing
+pymupdf
+pandas
+lxml
+
+# RAG and semantic search
+chromadb
+sentence-transformers
+
+# Database
+sqlalchemy
+
+# Backend API
+fastapi
+uvicorn
+
+# Dashboard
+streamlit
+plotly
+
+# Testing
+pytest
+httpx

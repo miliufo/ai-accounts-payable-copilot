@@ -1,0 +1,15 @@
+
+INVOICE
+
+Supplier: Berlin Tech GmbH
+Invoice Number: INV-2026-001
+Invoice Date: 2026-10-16
+Due Date: 2026-11-15
+
+Purchase Order: PO-1001
+
+Description: Enterprise IT Infrastructure Services
+
+Subtotal: 1000.00 EUR
+VAT (19%): 190.00 EUR
+Total: 1190.00 EUR
